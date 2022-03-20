@@ -12,6 +12,9 @@
 (define (h n) (A 2 n))
 (define (k n) (* 5 n n))
 
-(g 4)
+(h 2)
+(h 3)
 (h 4)
+(h 5)
+
 
